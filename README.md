@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 
 ## Programming Languages
 
-- **JavaScript:** 5 years
+- **JavaScript:** 4 years
 - **Python:** 3 years
 - **TypeScript:** 2 years
 - **C++:** 4 Months
