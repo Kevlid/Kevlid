@@ -1,3 +1,35 @@
-# Hi I'm Kewwie
+# Hi there, I'm Kewi! 👋
 
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
+Welcome to my GitHub profile!
+
+## About Me 🌟
+
+- **Location:** Sweden
+- **Languages I Speak:** English, Swedish
+- **Gamer:** I enjoy playing games like Valorant, Fortnite and Minecraft. 
+
+## Programming Languages
+
+- **JavaScript:** 5 years
+- **Python:** 3 years
+- **TypeScript:** 2 years
+- **C++:** 4 Months
+
+## Other Tools
+
+- **Docker:** 1 year
+- **Git & GitHub:** 2 years
+
+## Projects 🚀
+
+Here are a few projects I've worked on:
+
+- **[Levels](https://github.com/kewwie/levels):** A level tracking system for Mee6 powered servers.
+- **[Kewi App](https://github.com/kewwie/kewiapp):** A private Discord application I made for me and my friends.
+
+## Get in Touch 📬
+
+- **Email:** me@kewwie.com
+- **Twitter:** [@k3wwie](https://x.com/k3wwie)
+
+Thanks for visiting my profile, and have a great day! 😊
