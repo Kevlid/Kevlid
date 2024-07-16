@@ -25,7 +25,7 @@ Welcome to my GitHub profile!
 Here are a few projects I've worked on:
 
 - **[Levels](https://github.com/kewwie/levels):** A level tracking system for Mee6 powered servers.
-- **[Kewi App](https://github.com/kewwie/kewiapp):** A private Discord application I made for me and my friends.
+- **[Iwek](https://github.com/kewwie/iwek):** A private Discord application I made for me and my friends.
 - **Bumpy:** A former project now deleted, a server bumping Discord application made in python.
 
 ## Get in Touch 📬
