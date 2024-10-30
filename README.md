@@ -1,36 +1,13 @@
-# Hi there, I'm Kewi! 👋
+# 👋 Hi, I'm Kewi (Kewwie)!
 
-Welcome to my GitHub profile!
+I’m an 18-year-old developer from Sweden with a passion for coding, and anything computer related. I’m continuously learning and building, and I’m always excited to learn new stuff.
 
-## About Me 🌟
+## 🔧 Tech Stack
+- **Languages**: TypeScript, JavaScript, Python, and some C++
+- **Databases**: SQLite, MySQL, MongoDB
+- **Tools & Platforms**: Docker / Docker Compose
 
-- **Location:** Sweden
-- **Languages I Speak:** English, Swedish
-- **Gamer:** I enjoy playing games like Valorant, Fortnite and Minecraft. 
-
-## Programming Languages
-
-- **JavaScript:** 4 years
-- **Python:** 3 years
-- **TypeScript:** 2 years
-- **C++:** 4 Months
-
-## Other Tools
-
-- **Docker:** 1 year
-- **Git & GitHub:** 2 years
-
-## Projects 🚀
-
-Here are a few projects I've worked on:
-
-- **[Levels](https://github.com/kewwie/levels):** A level tracking system for Mee6 powered servers.
-- **[Iwek](https://github.com/kewwie/iwek):** A private Discord application I made for me and my friends.
-- **Bumpy:** A former project now deleted, a server bumping Discord application made in python.
-
-## Get in Touch 📬
-
-- **Email:** me@kewwie.com
-- **Twitter:** [@k3wwie](https://x.com/k3wwie)
-
-Thanks for visiting my profile, and have a great day! 😊
+## 📫 Contact
+- **Email**: [me@kewwie.com](mailto:me@kewwie.com)
+- **Portfolio**: [kewwie.com](https://kewwie.com)
+- **Twitter/X**: [@k3wwie](https://twitter.com/k3wwie)
